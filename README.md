@@ -1,7 +1,4 @@
 # webpack2-es6-react-config
-A configuration for react and es2015. Change it at your convenience.
-
-# webpack2-es6-react-config
 
 A webpack configuration for react and thrid party libraries. Includes testing with jasmine
 
